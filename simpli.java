@@ -1,4 +1,5 @@
 public class simpli {
-  System.out.println("Hello!");
+  String txt = "Hello!";
+  System.out.println(txt);
   
   };
